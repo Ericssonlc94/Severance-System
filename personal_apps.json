@@ -1,0 +1,22 @@
+[
+    {
+        "name": "STEAM",
+        "path": "C:/Program Files (x86)/Steam/steam.exe",
+        "close_after_launch": true
+    },
+    {
+        "name": "LOGITECH GAMING PROFILER",
+        "path": "C:/Program Files/Logitech/Gaming Software/LWEMon.exe",
+        "close_after_launch": true
+    },
+    {
+        "name": "DRIVE",
+        "path": "C:/Program Files/Google/Drive File Stream/113.0.1.0/GoogleDriveFS.exe",
+        "close_after_launch": true
+    },
+    {
+        "name": "BRAVE",
+        "path": "C:/Program Files/BraveSoftware/Brave-Browser/Application/brave.exe",
+        "close_after_launch": false
+    }
+]
