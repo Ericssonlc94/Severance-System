@@ -1,4 +1,4 @@
-Para leitura em pt-br abra o [README_BR.md]((https://github.com/Ericssonlc94/Severance-System/blob/main/README_BR.md))
+Para leitura em pt-br abra o [README_BR.md](https://github.com/Ericssonlc94/Severance-System/blob/main/README_BR.md)
 
 # 🌀 Severance System
 
