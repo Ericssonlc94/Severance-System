@@ -11,7 +11,7 @@ It allows you to switch between **Work Mode** and **Personal Mode**, automatical
 
 ### 1. Download
 - Download the executable from the official release:  
-  👉 [Severance System – Release](https://github.com/Ericssonlc94/Severance-System/releases/tag/severance_system)  
+  👉 [Severance System – Release](https://github.com/Ericssonlc94/Severance-System/releases/tag/severance_system_1.1)  
 - Save it in a folder on your PC.
 
 ---
