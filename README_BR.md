@@ -1,6 +1,6 @@
 # 🌀 Severance System
 
-O **Severance System** é uma ferramenta para Windows inspirada na série *Severance*.  
+O **Severance System** é uma ferramenta para Windows inspirada na série *Ruptura*.  
 Ele permite alternar entre **Modo Trabalho** e **Modo Pessoal**, iniciando ou encerrando aplicativos automaticamente, alterando papéis de parede e limpando o sistema.
 
 ---
