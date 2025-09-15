@@ -1,3 +1,5 @@
+Para leitura em pt-br abra o README_BR.md.
+
 # 🌀 Severance System
 
 The **Severance System** is a Windows tool inspired by the TV series *Severance*.  
