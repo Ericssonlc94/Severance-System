@@ -10,7 +10,7 @@ Ele permite alternar entre **Modo Trabalho** e **Modo Pessoal**, iniciando ou en
 ### 1. Download
 - Baixe o executável na página oficial:  
   👉 [Severance System – Release](https://github.com/Ericssonlc94/Severance-System/releases/tag/severance_system_1.1)  
-- Salve-o em uma pasta no seu PC.
+- Extraia-o em uma pasta no seu PC.
 
 ---
 
