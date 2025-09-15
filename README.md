@@ -12,12 +12,12 @@ It allows you to switch between **Work Mode** and **Personal Mode**, automatical
 ### 1. Download
 - Download the executable from the official release:  
   👉 [Severance System – Release](https://github.com/Ericssonlc94/Severance-System/releases/tag/severance_system_1.1)  
-- Save it in a folder on your PC.
+- Extract it in a folder on your PC.
 
 ---
 
 ### 2. Run the Program
-- Launch the program by double-clicking the executable or running it from the terminal.
+- Launch the program by double-clicking the executable or running it from the terminal and select your usual language.
 
 ---
 
@@ -42,7 +42,7 @@ Repeat this process to set up as many apps as you like for each mode.
 ### 5. (Optional) Configure Wallpapers
 You can assign a different wallpaper to each mode:
 
-1. Select option **7. ADD WALLPAPER**.  
+1. Select option **6. ADD WALLPAPER**.  
 2. Choose the mode (**Work** or **Personal**).  
 3. Select the image file (`.jpg` or `.png`).  
 4. Pick the desired display style:  
@@ -60,9 +60,9 @@ Other menu options include:
 
 | Option | Function |
 |--------|-----------|
-| **3. VIEW DATABASE** | Displays all apps added to each mode |
+| **4. VIEW DATABASE** | Displays all apps added to each mode |
 | **5. DELETE APP FROM DATABASE** | Removes an app from a selected mode |
-| **6. CLEAR CACHE AND TEMP FILES** | Cleans up Windows temporary files |
+| **7. CLEAR CACHE AND TEMP FILES** | Cleans up Windows temporary files |
 | **8. RESTORE DEFAULTS** | Deletes all settings and returns the system to its initial state |
 | **9. EXIT** | Closes the system |
 
