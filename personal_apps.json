@@ -1,10 +1,5 @@
 [
     {
-        "name": "STEAM",
-        "path": "C:/Program Files (x86)/Steam/steam.exe",
-        "close_after_launch": true
-    },
-    {
         "name": "LOGITECH GAMING PROFILER",
         "path": "C:/Program Files/Logitech/Gaming Software/LWEMon.exe",
         "close_after_launch": true
@@ -18,5 +13,17 @@
         "name": "BRAVE",
         "path": "C:/Program Files/BraveSoftware/Brave-Browser/Application/brave.exe",
         "close_after_launch": false
+    },
+    {
+        "name": "STEAM",
+        "path": "C:/Program Files (x86)/Steam/steam.exe",
+        "close_after_launch": true,
+        "requires_admin": false
+    },
+    {
+        "name": "RYZENTEST",
+        "path": "C:/Users/ericssonlc/Downloads/ryzentest/RyzenTest0.exe",
+        "close_after_launch": true,
+        "requires_admin": true
     }
 ]

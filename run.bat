@@ -3,7 +3,7 @@ rem Ativa o ambiente virtual
 call .\venv\Scripts\activate.bat
 
 rem Executa o script Python
-echo INICIANDO SEVERANCE SYSTEM...
+echo STARTING SEVERANCE SYSTEM...
 timeout /t 3 /nobreak >nul
 python severance_system.py
 
